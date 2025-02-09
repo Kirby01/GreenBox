@@ -1,3 +1,3 @@
 # GreenBox
-BassDistortion
+Bass Distortion
 <br>Slider Changes Distortion amount.
