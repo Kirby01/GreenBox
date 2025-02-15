@@ -1,3 +1,3 @@
 # GreenBox
-Bass Distortion
+Saturation Plugin
 <br>Slider Changes Distortion amount.
