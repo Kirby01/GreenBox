@@ -1,3 +1,2 @@
 # GreenBox
-Saturation Plugin
-<br>Slider Changes Distortion amount.
+Saturation Clip.
